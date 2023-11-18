@@ -12,11 +12,6 @@
      <br>
   <br>
   <br>
-   <div align="center">
-     <img align="center" src="https://wakatime.com/share/@Srbentu/4468064a-db05-4d2f-8ee8-a3aebcbcaf2f.svg" />
-   </div>
-  <br>
-  <br>
   <br>
    <div align="center" style="padding-top:50px">
     <img align="center" width="100%"  src="https://github-readme-streak-stats.herokuapp.com/?user=srbentu&theme=react&hide_border=true" alt="srbentu" />
