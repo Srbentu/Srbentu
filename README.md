@@ -1,5 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9E9E9E&height=120&section=header"/>
 
+<div align="center" style="margin:100px;" >
+  <a href="https://app.daily.dev/srbentu"><img src="https://api.daily.dev/devcards/v2/FCBJ4D4z9ckO6cY1gHzes.png?r=eoz&type=wide" width="652" alt="Breno Marcomini's Dev Card"/></a>
+</div>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=livvic&pause=1000&color=9E9E9E&center=true&random=false&width=1000&lines=Hello+World+!!!+My+name+is+Breno;Nerd-warlock+lvl+33;Lawful+Good;Front+End+%2F+UI+Developer;CSS+Lover;Things+I+Hate%3A;-+Funny+Bios;-+Irony;-+Lists)](https://git.io/typing-svg)
 
  <div>
