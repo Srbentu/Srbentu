@@ -1,7 +1,7 @@
 <h2 align="center">🜂 Breno — Whisper Bard / Phantom Rogue | Tech RPG Sheet</h2>
 
 **Classes:** Bard (College of Whispers) • Rogue (Phantom)  
-**Level:** 10 • **Alignment:** Neutral Good (Chaotic Leanings)  
+**Level:** 10 • **Alignment:** Chaotic Good (Chaotic Leanings)  
 
 **Archetype:** Extroverted mind-reader, stealth problem-solver, socially sharp, emotionally deep.
 
