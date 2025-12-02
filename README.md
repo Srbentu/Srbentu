@@ -1,6 +1,6 @@
-<h2 align="center">🛡️ Breno — Front-End Mage | Tech RPG Sheet</h2>
+<h2 align="center">🛡️ Breno — Front-End Rogue | Tech RPG Sheet</h2>
 
-**Class:** Wizard (React/Next) • **Subclass:** Bard (DX/SEO)  
+**Class:** Rogue (React/Next) • **Subclass:** Bard (DX/SEO)  
 **Level:** 9 • **Alignment:** Neutral Good  
 
 ---
