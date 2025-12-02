@@ -1,44 +1,62 @@
-<h2 align="center">🛡️ Breno — Front-End Rogue | Tech RPG Sheet</h2>
+<h2 align="center">🜂 Breno — Whisper Bard / Phantom Rogue | Tech RPG Sheet</h2>
 
-**Class:** Rogue (React/Next) • **Subclass:** Bard (DX/SEO)  
-**Level:** 9 • **Alignment:** Neutral Good  
+**Classes:** Bard (College of Whispers) • Rogue (Phantom)  
+**Level:** 10 • **Alignment:** Neutral Good (Chaotic Leanings)  
+
+**Archetype:** Extroverted mind-reader, stealth problem-solver, socially sharp, emotionally deep.
 
 ---
 
-### ⚔️ Ability Scores
+## ⚔️ Ability Scores
 | Ability | Score | Bar | Notes |
-|---|---:|---|---|
-| INT (TypeScript) | 18 | ██████████░ | Advanced types, generics, factories |
-| WIS (SEO/Analytics) | 15 | ████████░░ | Schema, sitemaps, GA4, Discover |
-| DEX (UI/UX) | 14 | ███████░░░ | Microinteractions, GSAP, INP tuning |
-| CON (Resilience) | 12 | ██████░░░░ | Debug persistence, safe rollouts |
-| CHA (Stakeholders) | 13 | ███████░░░ | Docs, communication, specs |
-| STR (Infra/Builds) | 10 | █████░░░░░ | CI/CD, AWS, Vercel, pipelines |
+|--------|------:|-----|-------|
+| **INT (TypeScript)** | 18 | ██████████░ | Advanced types, abstractions, clean architecture |
+| **WIS (SEO/Analytics)** | 17 | █████████░░ | Discover, News, sitemaps, indexing, KPI insights |
+| **DEX (UI/UX Motion)** | 15 | ████████░░ | GSAP, micro-interactions, motion timing |
+| **CHA (Social Insight)** | 16 | █████████░░ | Communication, stakeholder alignment, vibe reading |
+| **CON (Resilience)** | 13 | ███████░░░ | Debug stamina, mental adaptation |
+| **STR (Infra/Builds)** | 10 | █████░░░░░ | CI/CD, AWS, Vercel, pipelines |
 
-> **Proficiencies:** React • Next.js • React Native • Node.js • GA4 • AWS • Vercel  
-
----
-
-### 🔮 Spells & Items
-- **Spells:** *Refactor*, *Optimize LCP*, *Track Event*, *Generate Sitemap*  
-- **Cantrips:** *map*, *filter*, *reduce*, *console.log*  
-- **Items:** `eslint`, `prettier`, `turbo`, `zod`, `jest`, `msw`, `playwright`
+> **Proficiencies:** React • Next.js • React Native • SEO • GA4 • AWS • Tracking • Performance • Sitemaps
 
 ---
 
-### 🎒 Inventory (Key Projects)
-- **Recipe Importer:** Robust parsing and schema validation for imported recipes.  
-- **HealthScore/Quiz Factory:** Dynamic components rendered by question type.  
-- **Advent Calendar:** GSAP animations, GA4 tracking, and A/B testing.
+## 🔮 Subclass Features
+
+### **College of Whispers (Bard)**
+- **Psychic Blades:** Cuts through technical noise to find the elegant solution.  
+- **Words of Terror:** Intimidates stubborn bugs into vanishing.  
+- **Mantle of Insight:** Reads team dynamics before making a move.
+
+### **Phantom Rogue**
+- **Whispers of the Dead:** Gains new skills depending on the project’s needs.  
+- **Wails from the Grave:** Fixes one bug and weakens another nearby.  
+- **Ghost Walk:** Vanishes from Slack and returns with everything solved.
 
 ---
 
-### 🧭 Active Quests
+## 🔮 Spells & Tools
+- **Spells:** *Refactor*, *Optimize LCP*, *Track Custom Event*, *Generate Image Sitemap*, *Silent Rollout*  
+- **Cantrips:** `map()`, `filter()`, `reduce()`, `console.log()`, *whisper debug*  
+- **Items:** `eslint`, `prettier`, `turbo`, `zod`, `jest`, `msw`, `playwright`, `sharp`, `next-sitemap`
+
+---
+
+## 🎒 Inventory — Key Projects
+- **Recipe Importer:** Parsing + schema automation with Phantom-level precision.  
+- **HealthScore Factory:** Dynamic component rendering powered by question type.  
+- **Advent Calendar:** GSAP animations, GA4 tracking, A/B testing, perfect timing.  
+- **Image Sitemap / Discover SEO:** Indexing strategies, CTR improvements.
+
+---
+
+## 🧭 Active Quests
+- [ ] Expand **Google Discover / News** reach with new schemas  
+- [ ] Build the **KS SEO Dashboard** (KPIs, alerts, revenue, winners/losers)  
 - [ ] Improve **INP/LCP** on critical pages  
-- [ ] Expand **Google Discover / News** reach with schema & sitemaps  
-- [ ] Build an **SEO & Analytics Dashboard** with KPIs and alerts
+- [ ] Implement **content quality scoring** for trends & seasonality  
 
 ---
 
-> “Critical bugs fear the **+2 Coffee Buff**.” ☕️  
-> *— Arcane Dev’s proverb, circa 2025*
+> “If you hear a bug scream… it’s just a *Wail from the Grave* doing its job.”  
+> — *Phantom Dev’s Handbook, 2025*
