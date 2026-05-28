@@ -51,9 +51,6 @@
 ---
 
 ## 🧭 Active Quests
-- [ ] Expand **Google Discover / News** reach with new schemas  
-- [ ] Build the **KS SEO Dashboard** (KPIs, alerts, revenue, winners/losers)  
-- [ ] Improve **INP/LCP** on critical pages  
 - [ ] Implement **content quality scoring** for trends & seasonality  
 
 ---
