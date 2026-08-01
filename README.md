@@ -50,8 +50,6 @@
 
 ---
 
-## 🧭 Active Quests
-- [ ] Implement **content quality scoring** for trends & seasonality  
 
 ---
 
